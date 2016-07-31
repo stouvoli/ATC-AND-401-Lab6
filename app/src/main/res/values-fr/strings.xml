@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liste de taches Material  - Android ATC</string>
+    <string name="hello_world">Salut Material Design</string>
+    <string name="action_settings">Parametres</string>
+    <string name="addItemHint">Nouvelle tache</string>
+</resources>
